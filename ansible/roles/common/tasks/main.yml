@@ -1,6 +1,6 @@
-- include_tasks: setup.yaml
+- include_tasks: setup.yml
 
-- include_tasks: users.yaml
+- include_tasks: users.yml
 
 - include_tasks: packages.yml
 
